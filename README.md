@@ -1,4 +1,4 @@
-## Oiiii!! Bem-vindo ao meu github, me chamo Pedro Henrique 👋
+## Oi! Bem-vindo ao meu github, me chamo Pedro Henrique 👋
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohtbl&hide=prs,issues&show_icons=true&theme=synthwave"/>
