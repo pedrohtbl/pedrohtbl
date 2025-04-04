@@ -1,5 +1,5 @@
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohtbl&show_icons=true&theme=synthwave&count_private=true&repo=econt-agro-frontend"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohtbl&count_private=true&repo=econt-agro-frontend&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohtbl&theme=synthwave"/>
 </div>
 </br>
