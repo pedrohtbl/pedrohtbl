@@ -1,8 +1,4 @@
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohtbl&include_all_commits=true&count_private=true&repo=econt-agro-frontend&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohtbl&theme=synthwave"/>
-</div>
-</br>
+
 <div style="display: flex">
   <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
